@@ -1,0 +1,6 @@
+# dataset.yaml
+path: C:\Users\yourk\Documents\9QT\Artificial Vision\Codes\YOLO_DataSet
+train: images/train
+val: images/test
+nc: 2  # Número de clases
+names: ['crosswalk', 'guide_arrows']  # Lista de nombres de las clases en orden
