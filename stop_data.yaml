@@ -1,0 +1,6 @@
+# dataset.yaml
+path: C:\Users\yourk\Desktop\dataset
+train: images/train
+val: images/test
+nc: 1 #Number Classes
+names: ['stop_signal']  # List of names

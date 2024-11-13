@@ -158,8 +158,3 @@ while cap.isOpened():
     cv2.imshow("Lane Detection", combo_image)
     
     # Presionar 'q' para salir
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
-
-cap.release()
-cv2.destroyAllWindows()
