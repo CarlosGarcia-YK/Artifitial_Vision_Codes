@@ -1,0 +1,6 @@
+# dataset.yaml
+path: C:\Users\yourk\Desktop\Human-finder.v1i.yolov8
+train: images/train
+val: images/test
+nc: 1 #Number Classes
+names: ['Person']  # List of names
